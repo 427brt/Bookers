@@ -1,3 +1,5 @@
 # README
 
-webcamp 課題　アプリケーションを完成させよう8章 Bookers1
+Bookers application
+
+Mainly studying Ruby on Rails
